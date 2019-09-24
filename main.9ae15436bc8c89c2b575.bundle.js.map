@@ -1,0 +1,1 @@
+{"version":3,"file":"main.9ae15436bc8c89c2b575.bundle.js","sources":["webpack:///./components/g2.ts"],"sourcesContent":["// 全局 G2 设置\nimport { G2 } from 'bizcharts';\n\nG2.track(false);\n\nconst config = {\n  defaultColor: '#1089ff',\n  shape: {\n    interval: {\n      fillOpacity: 1,\n    },\n  },\n};\n\nG2.Global.setTheme(config as any);\n"],"mappings":"AAGA","sourceRoot":""}
