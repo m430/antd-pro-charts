@@ -8,12 +8,11 @@ npm install --save antd-pro-charts
 ```
 
 ```javascript
-import { SlideVerify } from 'antd-pro-charts';
+import { Bar } from 'antd-pro-charts';
 ```
 
 ## Components
 
-- [x] AvatarList
 - [x] Charts-Bar
 - [x] Charts-Gauge
 - [x] Charts-MiniArea
@@ -23,10 +22,4 @@ import { SlideVerify } from 'antd-pro-charts';
 - [x] Charts-TagCloud
 - [x] Charts-TimelineChart
 - [x] Charts-WaterWave
-- [x] Headline
-- [x] NumberInfo
-- [x] ScrollSelect
-- [x] SlideVerify
-- [x] Trend
-
 
